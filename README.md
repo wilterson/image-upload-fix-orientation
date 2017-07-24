@@ -1,4 +1,4 @@
-#Fix Image Orientation
+<h1>Fix Image Orientation</h1>
 
-This code fixes the image orientation in upload.
+<p>This code fixes the image orientation in upload.</p>
 
